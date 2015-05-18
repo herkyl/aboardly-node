@@ -1,0 +1,23 @@
+{
+  "name": "aboardly",
+  "version": "0.1.0",
+  "description": "Official Aboardly API library client for node.js",
+  "author": "Serge <> (http://github.com/herkyl)",
+  "homepage": "http://127.0.0.1:1235/api",
+  "keywords": ["aboardly", "alpaca", "api", "client", "library"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aboardly/aboardly-client-node"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request": "2.x.x"
+  },
+  "bugs": {
+    "url": "https://github.com/aboardly/aboardly-client-node/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
