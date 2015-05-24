@@ -61,6 +61,8 @@ Updates customer data. If customer does not exist it is created.
 The following arguments are required:
 
  * __customer_id__: Customer identifier - an identifier that can 1:1 match to the user in your own systems.
+ * __options.email__: Customer email - required
+ * __options__: Data about customer like first_name, last_name, email (required)
 
 ```js
 client.customers.upsert("customer_id", options, callback);
