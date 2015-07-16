@@ -1,6 +1,6 @@
 {
   "name": "aboardly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Official Aboardly API library client for Node.js and IO.js",
   "author": "Serge (http://github.com/herkyl)",
   "homepage": "http://www.aboardly.com/",
